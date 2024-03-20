@@ -7,7 +7,7 @@ Create an image and execute to make it running (container).
 Try to push all your project to github.
 
 Submission
-This is individual activity, you are supposed to provide the repository link plus add screen shots of docker UI that can depict successful creation of image as well as its successful execution.
+you are supposed to provide the repository link plus add screen shots of docker UI that can depict successful creation of image as well as its successful execution.
 
 Good Luck 🙂
 "
